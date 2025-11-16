@@ -8,3 +8,25 @@ Voor opdracht 1 heb ik een ballenspawner gemaakt....... Functies gebruikt met ar
 [link naar mijn script](/My_project/Assets/Opdracht1.cs)
 
 ![link naar het gifje](/My_project/Assets/2025-10-0815-53-19-ezgif.com-video-to-gif-converter.gif)
+
+## Basic:
+bewegen
+
+[link naar mijn script](/My_project/Assets/Ratation.cs)
+[link naar mijn script](/My_project/Assets/rondjemaken.cs)
+[link naar mijn script](/My_project/Assets/Ratation.cs)
+[link naar mijn script](/My_project/Assets/heenweer.cs)
+
+![link naar het gifje](/My_project/Assets/Beweeg.gif)
+
+## Basic:
+coins pick up
+[link naar mijn script](/My_project/Assets/CoinPickup.cs)
+[link naar mijn script](/My_project/Assets/ScoreManager.cs)
+
+![link naar het gifje](/My_project/Assets/Coin.gif)
+
+
+
+
+

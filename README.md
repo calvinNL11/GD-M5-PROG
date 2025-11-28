@@ -26,6 +26,27 @@ coins pick up
 
 ![link naar het gifje](/My_project/Assets/Coin.gif)
 
+## normale opdracht 2
+ik heb geprobeert om de towers random te kunnen inspawnen maar niet gelukt maar de tower kan wel inspawnen maar niet random
+[link naar mijn script](/My_project/Assets/Tower.cs)
+[link naar mijn script](/My_project/Assets/TowerSpawner.cs)
+
+![link naar het gifje](/My_project/Assets/towergif.gif)
+
+
+
+## normale opdracht 3
+blokken die spawnen en naar heel veel kunnen gaan
+[link naar mijn script](/My_project/Assets/enemy.cs)
+[link naar mijn script](/My_project/Assets/enemySpawner.cs)
+
+![link naar het gifje](/My_project/Assets/enemygif.gif)
+
+```mermaid
+flowchart LR
+a --> b
+
+```
 
 
 

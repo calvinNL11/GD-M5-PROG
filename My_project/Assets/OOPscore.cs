@@ -1,18 +1,17 @@
 using UnityEngine;
-using UnityEngine.UI; // Alleen nodig als je een UI-score wilt tonen
 
-public class ScoreManager : MonoBehaviour
+public class OOPscore : MonoBehaviour
 {
-    public static ScoreManager Instance; 
-    public int totalScore = 10;
+    public static ScoreManager Instance;
+    public int totalScore = 18;
 
     void Awake()
     {
-      
+
         if (Instance == null)
         {
-            Instance = this;
-            DontDestroyOnLoad(gameObject); 
+            
+            DontDestroyOnLoad(gameObject);
         }
         else
         {

@@ -48,6 +48,9 @@ a --> b
 
 ```
 
+## Les 7 : Early Return Patterns 
+
+[link naar mijn script](/My_project/Assets/07earlyreturns.cs)
 
 
 

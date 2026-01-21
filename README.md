@@ -33,7 +33,11 @@ ik heb geprobeert om de towers random te kunnen inspawnen maar niet gelukt maar 
 
 ![link naar het gifje](/My_project/Assets/towergif.gif)
 
+```mermaid
+flowchart LR
+a --> b
 
+```
 
 ## normale opdracht 3
 blokken die spawnen en naar heel veel kunnen gaan
@@ -42,15 +46,11 @@ blokken die spawnen en naar heel veel kunnen gaan
 
 ![link naar het gifje](/My_project/Assets/enemygif.gif)
 
-```mermaid
-flowchart LR
-a --> b
 
-```
 
 ## Les 7 : Early Return Patterns 
 
 [link naar mijn script](/My_project/Assets/07earlyreturns.cs)
-
+ 
 
 

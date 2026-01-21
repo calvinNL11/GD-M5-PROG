@@ -54,7 +54,7 @@ blokken die spawnen en naar heel veel kunnen gaan
 [link naar mijn script](/My_project/Assets/CoinOOP/DamageTrap.cs)
 [link naar mijn script](/My_project/Assets/CoinOOP/HealthPickup.cs)
 [link naar mijn script](/My_project/Assets/CoinOOP/OOP%20lopen.cs)
-[link naar mijn script](/My_project/Assets/CoinOOP/2026-01-2115-38-07-ezgif.com-video-to-gif-converter.gif.meta)
+[link naar mijn script](/My_project/Assets/CoinOOP/2026-01-2115-38-07-ezgif.com-video-to-gif-converter.gif)
 
 
 ## M6 Les 7 : Early Return Patterns 
